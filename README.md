@@ -1,5 +1,3 @@
-##
-
 ### Opa, Seja bem-vindo!
 
 - Estudando HTML - CSS 📚
