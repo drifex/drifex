@@ -2,6 +2,7 @@
 
 - Estudando HTML - CSS 📚
 - Estudando JavaScript 💻
+- Estudando Banco de Dados
 
 <div align="center">
   <a href="https://github.com/drifex">
