@@ -11,7 +11,7 @@
 
   ##
  
- <div style="diplay: flex; width: 120px; margin: 0 auto; justify-content:center">
+<div align="center" style="display: inline_block">
    <img align="center" alt="Drifex-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="Drifex-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Drifex-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
