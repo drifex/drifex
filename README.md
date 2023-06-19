@@ -1,8 +1,6 @@
 ### Opa, Seja bem-vindo!
 
-- Estudando HTML - CSS 📚
-- Estudando JavaScript 💻
-- Estudando Banco de Dados
+- Estudando HTML - CSS - JAVASCRIPT - NODEJS - SQL 📚
 
 <div align="center">
   <a href="https://github.com/drifex">
