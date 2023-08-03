@@ -1,4 +1,4 @@
-### Opa, Seja bem-vindo!
+### Opa, seja bem-vindo!
 
 - Estudando HTML - CSS - JAVASCRIPT - NODEJS - SQL 📚
 
